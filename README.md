@@ -36,9 +36,9 @@
 
 ### :memo: You can select the result text and use ```Ctrl+C``` to copy it and pate another place that you need.
 
-<h1 align="center"> 
+<h3 align="center"> 
     <img src="https://github.com/Es-Kiani/Base64/blob/main/ScSht/1.PNG" >
-</h1>
+</h3>
 
 ### :warning:  Don't worry about text scrolling.. You can scroll in both text areas by your mouse wheel or :arrow_up: &amp :arrow_down: arrow keys.
 
