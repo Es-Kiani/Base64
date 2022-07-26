@@ -26,15 +26,15 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
-## 	:satellite:    Usage: Just run ```main.py``` in one of directories and enjoy the app
+## :satellite: Usage: Just run ```main.py``` in one of directories and enjoy the app
 
 ### After running main script, in the opened window you must enter your txt or base-64 encoded text in the upper text input area.
 
 
-###   	:file_folder:   After once you press the _"Encode"_ or _"Decode"_ button, you can see the coded or decoded text in the bottom text area.
+### :file_folder: At once you press the _"Encode"_ or _"Decode"_ button, you can see the coded or decoded text in the bottom text area.
 
 
-###  	:memo:    You can select the result text and use ```Ctrl+C``` to copy it and pate another place that you need.
+### :memo: You can select the result text and use ```Ctrl+C``` to copy it and pate another place that you need.
 
 <img src="https://github.com/Es-Kiani/Base64/blob/main/ScSht/1.PNG">
 
@@ -42,7 +42,7 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
-Thanks! :sunglasses:
+Thank you! :sunglasses:
 
 Made with :heart: and Python.
 
