@@ -40,7 +40,7 @@
     <img src="https://github.com/Es-Kiani/Base64/blob/main/ScSht/1.PNG" >
 </h3>
 
-### :warning:  Don't worry about text scrolling.. You can scroll in both text areas by your mouse wheel or :arrow_up: &amp :arrow_down: arrow keys.
+### :warning:  Don't worry about text scrolling.. You can scroll in both text areas by your mouse wheel or :arrow_up: & :arrow_down: arrow keys.
 
 
 
