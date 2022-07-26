@@ -38,10 +38,11 @@
 
 <img src="https://github.com/Es-Kiani/Base64/blob/main/ScSht/1.PNG">
 
+### :warning: Don't worry about text scrolling.. You can scroll in both text areas by your mouse wheel or :arrow_up: &amp :arrow_down: arrow keys.
+
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-### :warning: Don't worry about text scrolling.. You can scroll in both text areas by your mouse wheel or :arrow_up: &amp :arrow_down: arrow keys.
 
 
 Thank you! :sunglasses:
