@@ -23,29 +23,18 @@
 
 
 
-Pythonic GUI Compound Effect Calculator for Calculating Compound Effect When You Are Trading in Forex || Crypto || Any Other Financial Markets... .
-
-
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
-## 	:satellite:    Usage: Just run ```main.py``` || ```main.pyw``` and enjoy
+## 	:satellite:    Usage: Just run ```main.py``` in one of directories and enjoy the app
 
-### After running main script, in the opened window you must enter your _Base Asset_ & _Percentage_ & _Steps_.
-
-<img src="https://github.com/E-Kiani/Compound-Effect-Calculator/blob/main/ScSh1.PNG">
+### After running main script, in the opened window you must enter your txt or base-64 encoded text in the upper text input area.
 
 
-
-###   	:file_folder:   After once you press the _"Calculate"_ button, we store all of your calculated data and steps information in a _Result.txt_ file near the ```main.py``` file in the same dirctory.
-
-<img src="https://github.com/E-Kiani/Compound-Effect-Calculator/blob/main/ScSh2.PNG">
-
-<img src="https://github.com/E-Kiani/Compound-Effect-Calculator/blob/main/ScSh3.PNG">
+###   	:file_folder:   After once you press the _"Encode"_ or _"Decode"_ button, you can see the coded or decoded text in the bottom text area.
 
 
-
-###  	:memo:    And of course you can read the final result in the App.
+###  	:memo:    You can select the result text and use ```Ctrl+C``` to copy it and pate another place that you need.
 
 <img src="https://github.com/Es-Kiani/Base64/blob/main/ScSht/1.PNG">
 
